@@ -7,7 +7,7 @@ header('Content-Type: text/json');
     "room":                     "Indie Adventure Club",
     "author":                   "Rienone",
     "icon":                     "https://i.imgur.com/daCDJk6.png",
-    "css":                      "",
+    "css":                      null,
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
